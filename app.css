@@ -1,0 +1,38 @@
+body {
+    background-color: whitesmoke;
+}
+header { 
+    background-color: chocolate;
+    height: 150px;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    
+
+
+}
+
+section {
+    background: yellow;
+    margin-right: 10px;
+    height: 200px;
+
+}
+
+aside {
+    background: yellow;
+    height: 200px;
+
+
+}
+footer {
+    margin-top: 10px;
+    background-color: chocolate;
+    height: 80px;
+
+
+}
